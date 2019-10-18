@@ -1,2 +1,2 @@
 # Temperature_test_automation
-# Master in TU Chemnitz
+# Master thesis in TU Chemnitz
